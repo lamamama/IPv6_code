@@ -1,4 +1,5 @@
 # Node_code
  Node_code文件夹中是cc2530节点中的代码
  Qt文件夹下是pc客户端的代码
- 
+ web文件夹在是web服务器的代码
+ openwrt文件夹下是路由器移植openwrt系统和软件的文件
