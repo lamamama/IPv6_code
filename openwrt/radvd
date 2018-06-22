@@ -1,0 +1,52 @@
+config interface
+	option interface   'tun0'
+	option ignore           0
+	option AdvSendAdvert     1
+	option AdvLinkMTU  1280
+	option AdvCurHopLimit    128
+	option AdvReachableTime  360000
+	option MinRtrAdvInterval 100
+	option MaxRtrAdvInterval 150
+	option AdvDefaultLifetime      200 
+
+config prefix
+	option interface   'tun0'
+	list prefix 'aaaa::/64'
+	option AdvOnLink   1
+	option AdvAutonomous     1
+	option AdvPreferredLifetime    4294967295
+	option AdvValidLifetime        4294967295
+	option ignore           0
+
+config rdnss
+	option interface   'tun0'
+	list addr          ''
+	option ignore            1    
+
+config interface
+	option interface        'lan'
+	option AdvSendAdvert    1
+	option AdvManagedFlag   0
+	option AdvOtherConfigFlag 0
+	option ignore           0
+	option MinRtrAdvInterval 5
+	option MaxRtrAdvInterval 10
+	option AdvDefaultPreference    low
+
+config prefix
+	option interface        'lan'
+	option prefix           '2001:1::/64'
+	option AdvOnLink        1
+	option AdvAutonomous    1
+	option AdvRouterAddr    1
+	option ignore           0
+
+config route
+	option interface   'lan'
+	list prefix        ''
+	option ignore            1
+
+config dnssl
+	option interface   'lan'
+	list suffix        ''
+	option ignore      1

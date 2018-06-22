@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>363</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <CodeCovEnabled>0</CodeCovEnabled><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+      <Debug-Log><ColumnWidth0>25</ColumnWidth0><ColumnWidth1>1302</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20256-29324</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Exp</ExpandedNode><ExpandedNode>Exp/Output</ExpandedNode><ExpandedNode>Exp/contiki</ExpandedNode><ExpandedNode>Exp/contiki-app</ExpandedNode><ExpandedNode>Exp/contiki-border</ExpandedNode><ExpandedNode>Exp/contiki-core</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31005-29327</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8985-29331</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19734-29334</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-6966-68</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\rest-engine\rest-constants.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\dev\ds18b20\ds18b20-sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\lib\list.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\lib\list.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\dev\ds18b20\ds18b20.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\lib\sensors.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\net\ip\tcpip.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\net\ip\uip.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\sys\process.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\net\ipv6\uip-ds6.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\net\ipv6\uip-ds6.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\cpu\cc253x\dev\clock.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\cpu\cc253x\soc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\sys\rtimer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\cpu\cc253x\rtimer-arch.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\sys\process.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>802</SelStart><SelEnd>802</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\cpu\cc253x\dev\uart0.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-observe.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>2817</SelStart><SelEnd>2817</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-observe.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>2678</SelStart><SelEnd>2678</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-conf.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1977</SelStart><SelEnd>1977</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-constants.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>807</SelStart><SelEnd>807</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\dev\ds18b20\ds18b20-sensor.c</Filename><XPos>0</XPos><YPos>92</YPos><SelStart>3219</SelStart><SelEnd>3219</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\resources\res-battery.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>2616</SelStart><SelEnd>2616</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\dev\battery-sensor.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>1894</SelStart><SelEnd>1894</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\er-example-client.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>3297</SelStart><SelEnd>3297</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\cc2530dk\udp-ipv6\server.c</Filename><XPos>0</XPos><YPos>174</YPos><SelStart>5978</SelStart><SelEnd>5978</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\resources\res-hello.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>3819</SelStart><SelEnd>3819</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\rest-engine\rest-engine.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>5185</SelStart><SelEnd>5185</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>7067</SelStart><SelEnd>7067</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-res-well-known-core.c</Filename><XPos>0</XPos><YPos>177</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\er-example-server.c</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>3546</SelStart><SelEnd>3546</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-engine.c</Filename><XPos>0</XPos><YPos>264</YPos><SelStart>11835</SelStart><SelEnd>11835</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap-transactions.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>3300</SelStart><SelEnd>3300</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\rest-engine\rest-engine.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>1999</SelStart><SelEnd>1999</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap.h</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>2312</SelStart><SelEnd>2312</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\apps\er-coap\er-coap.c</Filename><XPos>0</XPos><YPos>269</YPos><SelStart>9104</SelStart><SelEnd>9104</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\cc2530dk\udp-ipv6\client.c</Filename><XPos>0</XPos><YPos>93</YPos><SelStart>3664</SelStart><SelEnd>3664</SelEnd></Tab><ActiveTab>36</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\cc26xx\cc26xx-web-demo\coap-server.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1082</SelStart><SelEnd>1082</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\resources\res-leds.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3281</SelStart><SelEnd>3281</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\examples\er-rest-example\resources\res-ds18b20.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>2619</SelStart><SelEnd>2619</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\core\net\ip\uip-udp-packet.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>2080</SelStart><SelEnd>2080</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\contiki-3.0\dev\ds18b20\ds18b20.c</Filename><XPos>0</XPos><YPos>125</YPos><SelStart>3119</SelStart><SelEnd>3119</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-073326b0><key>iaridepm.enu1</key></Toolbar-073326b0></Sizes></Row0><Row1><Sizes><Toolbar-14e42f00><key>debuggergui.enu1</key></Toolbar-14e42f00></Sizes></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>365</Bottom><Right>454</Right><x>-2</x><y>-2</y><xscreen>858</xscreen><yscreen>699</yscreen><sizeHorzCX>628111</sizeHorzCX><sizeHorzCY>1020438</sizeHorzCY><sizeVertCX>333821</sizeVertCX><sizeVertCY>535766</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>365</Bottom><Right>379</Right><x>-2</x><y>-2</y><xscreen>858</xscreen><yscreen>699</yscreen><sizeHorzCX>628111</sizeHorzCX><sizeHorzCY>1020438</sizeHorzCY><sizeVertCX>278917</sizeVertCX><sizeVertCY>535766</sizeVertCY></Rect></Wnd1></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>251</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>253</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>369343</sizeHorzCY><sizeVertCX>628111</sizeVertCX><sizeVertCY>1020438</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
